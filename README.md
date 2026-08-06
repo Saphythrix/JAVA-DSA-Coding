@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0057-insert-interval) |
+| [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0724-find-pivot-index) |
@@ -64,8 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
