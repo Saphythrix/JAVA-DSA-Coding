@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 ## Queue
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0206-reverse-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
