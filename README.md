@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
