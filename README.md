@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Tree
 |  |
 | ------- |
