@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0503-next-greater-element-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0724-find-pivot-index) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 ## Queue
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
