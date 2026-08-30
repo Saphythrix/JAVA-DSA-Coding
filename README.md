@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0724-find-pivot-index) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0061-rotate-list) |
+| [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
+| [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
