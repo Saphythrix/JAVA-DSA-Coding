@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
