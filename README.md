@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
