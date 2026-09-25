@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
 |  |
