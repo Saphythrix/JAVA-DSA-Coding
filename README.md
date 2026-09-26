@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0061-rotate-list) |
+| [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
 |  |
