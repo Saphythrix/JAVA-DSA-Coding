@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0503-next-greater-element-ii) |
