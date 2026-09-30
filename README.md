@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 ## Database
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
