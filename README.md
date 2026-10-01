@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0739-daily-temperatures) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 ## Database
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
@@ -389,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
