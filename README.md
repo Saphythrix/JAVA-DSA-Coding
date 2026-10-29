@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 ## Database
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -427,4 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
