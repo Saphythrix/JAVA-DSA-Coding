@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1480-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Tree
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -414,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -439,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
