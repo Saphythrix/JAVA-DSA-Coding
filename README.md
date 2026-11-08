@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
