@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -470,4 +473,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0778-swim-in-rising-water) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
