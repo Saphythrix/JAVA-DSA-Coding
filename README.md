@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0100-same-tree) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0240-search-a-2d-matrix-ii) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0113-path-sum-ii) |
 ## String Matching
 |  |
