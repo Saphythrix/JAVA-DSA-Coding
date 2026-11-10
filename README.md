@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Queue
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 ## Database
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
