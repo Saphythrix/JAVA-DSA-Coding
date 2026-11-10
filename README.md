@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
