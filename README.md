@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0226-invert-binary-tree) |
@@ -497,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
