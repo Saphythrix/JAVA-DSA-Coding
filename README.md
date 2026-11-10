@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1189-maximum-number-of-balloons) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2390-removing-stars-from-a-string) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Stack
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Queue
 |  |
 | ------- |
