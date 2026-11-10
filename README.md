@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
 |  |
