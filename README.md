@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
