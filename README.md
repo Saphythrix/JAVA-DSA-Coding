@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
+| [0905-sort-array-by-parity](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
