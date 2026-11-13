@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Queue
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
+| [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -517,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
