@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0419-battleships-in-a-board) |
 | [0503-next-greater-element-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0724-find-pivot-index) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Geometry
@@ -543,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0881-boats-to-save-people) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
