@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1631-path-with-minimum-effort) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Queue
 |  |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0973-k-closest-points-to-origin) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Geometry
 |  |
 | ------- |
