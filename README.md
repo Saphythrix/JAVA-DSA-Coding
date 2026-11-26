@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/1544-make-the-string-great) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saphythrix/JAVA-DSA-Coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
