@@ -3,10 +3,14 @@ class Solution {
         Stack<Character> st=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if((Character.isUpperCase(ch) && !st.isEmpty() && Character.toLowerCase(ch)==st.peek())||Character.isLowerCase(ch) && !st.isEmpty() && Character.toUpperCase(ch)==st.peek() ){
-                st.pop();
+            // if((Character.isUpperCase(ch) && !st.isEmpty() && Character.toLowerCase(ch)==st.peek())||Character.isLowerCase(ch) && !st.isEmpty() && Character.toUpperCase(ch)==st.peek() ){
+            //     st.pop();
                 
-            }else{
+            // }
+            if(!st.isEmpty() && Math.abs(st.peek()-ch)==32){
+                st.pop();
+            }
+            else{
                 st.push(ch);
             }
         }
